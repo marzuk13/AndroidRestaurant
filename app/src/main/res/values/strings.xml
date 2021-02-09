@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Android restaurant</string>
+    <string name="hello">Welcome \nto</string>
+
+    <string name="starter">Nos entrées</string>
+    <string name="main">Nos plats</string>
+    <string name="dessert">Nos désserts</string>
+
+    <string name="toast_content">Contenu du toast</string>
+
+    <string name="total">Total</string>
+    <string name="basket_validation">Plat ajouté au panier</string>
+    <string name="basket">Panier</string>
+    <string name="order">Commander</string>
+    <string name="quantity">Quantité :</string>
+
+    <string name="registrationTitle">Création du compte</string>
+    <string name="firstname">Prénom</string>
+    <string name="lastname">Nom</string>
+    <string name="email">Mail</string>
+    <string name="password">Mot de passe</string>
+    <string name="register">Créer votre compte</string>
+
+    <string name="login">Se connecter</string>
+
+</resources>
